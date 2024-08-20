@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yakir Bar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Dinghy-e2e, focusing on end-to-end testing and automation to enhance software quality and deployment processes.e<br>👯 I’m looking to collaborate on innovative DevOps solutions and projects involving Docker, Jenkins, and CI/CD pipelines. If you have a cool project or an interesting idea, let's connect!<br>🤝 I’m looking for help with integrating advanced DevOps automation tools and optimizing CI/CD workflows for complex applications.<br>🌱 I’m currently learning the latest DevOps automation tools and best practices to stay at the forefront of the field.<br>💬 Ask me about web development, continuous integration and deployment (CI/CD) pipelines, or any questions you have about Docker and automation.<br>⚡ Fun fact I’m only 24 Y/O, passionate about technology, and always eager to learn and grow in the tech world!
