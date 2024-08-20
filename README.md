@@ -54,17 +54,6 @@
     <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="googlecloud" width="40" height="40"/> </a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yakirbar&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yakirbar&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yakirbar&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yakirbar&show_icons=true&locale=en&layout=compact" alt="yakirbar" /></p>
 
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yakirbar&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=yakirbar&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yakirbar&show_icons=true&locale=en" alt="yakirbar" /></p>
