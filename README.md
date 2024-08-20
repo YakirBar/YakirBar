@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Dinghy-e2e<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning DevOps automation tools<br>💬 Ask me about web development & CI/CD pipelines<br>⚡ Fun fact im only 24 Y/O
+🔭 I’m currently working on Dinghy-e2e<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning DevOps automation tools<br>💬 Ask me about web development & CI/CD pipelines<br>⚡ Fun fact I’m only 24 Y/O, passionate about technology, and always eager to learn and grow in the tech world!
 
 
 ## 🌐 Socials:
