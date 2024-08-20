@@ -4,8 +4,8 @@
 🔭 I’m currently working on Dinghy-e2e, focusing on end-to-end testing and automation to enhance software quality and deployment processes.e<br>👯 I’m looking to collaborate on innovative DevOps solutions and projects involving Docker, Jenkins, and CI/CD pipelines. If you have a cool project or an interesting idea, let's connect!<br>🤝 I’m looking for help with integrating advanced DevOps automation tools and optimizing CI/CD workflows for complex applications.<br>🌱 I’m currently learning the latest DevOps automation tools and best practices to stay at the forefront of the field.<br>💬 Ask me about web development, continuous integration and deployment (CI/CD) pipelines, or any questions you have about Docker and automation.<br>⚡ Fun fact I’m only 24 Y/O, passionate about technology, and always eager to learn and grow in the tech world!
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yakir-bar) 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 💻 Tech Stack:
 <p align="left"> 
@@ -62,8 +62,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yakirbar&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yakirbar&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yakirbar&limit=5&theme=dark&combine_all_yearly_contributions=true)
